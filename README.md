@@ -1,4 +1,4 @@
-# 🖋️ File Read & Write + Error Handling Challenge
+#  File Read & Write + Error Handling Challenge
 
 This is a simple Python program that:
 
